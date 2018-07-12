@@ -39,7 +39,8 @@
             <asp:GridView ID="GridView1" runat="server"></asp:GridView><br />
             <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
             <div id="like_button_container"></div>
+            <p>This is a upload test</p>
         </div>
-    </div>
+    </div> 
 
 </asp:Content>
